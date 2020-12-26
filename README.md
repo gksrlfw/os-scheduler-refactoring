@@ -1,3 +1,3 @@
 # os-scheduler-refactoring
 os-scheduler-refactoring
-- 코드 
+- 코드개선
